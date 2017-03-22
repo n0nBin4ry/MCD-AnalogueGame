@@ -10,15 +10,16 @@ A co-operative game where 4 players work together to explore a dungeon and defea
 - Shuffle the rest of the tiles and set them face-down in a stack nearby. Do the same with the loot cards.
 - Players all place their tokens onto the entrance tile.
 - Player turns continue in same order as when choosing classes.
-- When loot cards are recieved, players hold them in their hand (or just line them up on the table in front of themselves)
+- When loot cards are received, players hold them in their hand (or just line them up on the table in front of themselves)
 	- Doesn't matter if other players see the cards.
 	- No trading or charity.
 
 ## Turn Phases
-- If you are in combat then reffer to the combat section.
-- Any time during your turn, if not in an event or combat, you can manage your inventory which means you can equip/unequip gear.
+- If you are in combat then refer to the combat section.
+- Any time during your turn, if not in an event or combat, you can manage your inventory which means you can equip/remove gear.
 	- You can only manage your inventory once per turn. (i.e. If you manage gear before moving, you cannot manage gear again after. Even if 
 		you were graced with great loot.)
+	- To show gear is equipped, just place it adjacent to your character tile.
 - You may also (if not in combat) chose to wait, retrace, attack, or explore.
 	- Wait: Not move from your current tile.
 	- Retrace: Move through previously discovered tiles, excluding unset traps and monster occupied rooms.
@@ -45,7 +46,15 @@ A co-operative game where 4 players work together to explore a dungeon and defea
 			- If you escape to another tile where there is an unslayed monster then you must immediately commence combat over with new monster.
 		- If you lose the roll, do what the card says. Then your turn ends there and you can try to attack or run on your next turn.
 
+## Gear
+- Gear is found in the loot deck.
+- Each player can only have 1 helmet, 1 piece of armor, and 1 weapon at a time.
+- Helmets have the word Helmet in the name.
+- Armor has the word Armor in the name.
+- Weapons are everything else that isn't a scroll or potion.
+		
 ## Potions & Scrolls
+- Potions & Scrolls are in the loot deck.
 - Only a Wizard can use scrolls and only a cleric can use potions.
 - Either of these two types can be used at any time, even if it's not the player's turn.
 - The card can be used on the player themselves or other players on the same tile or adjacent tiles. 
