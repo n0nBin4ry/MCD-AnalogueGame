@@ -63,8 +63,11 @@ To win the game, the players must defeat the boss:
 - To fight the boss you have to find a boss door and a boss key.
 - A boss door is a tile, a tile that you eventually fight the monster on.
 - A boss key is an item you have to find to open the boss door.
-- Once one player decides to open the boss door then all players (no matter where they were or what they were doing) are teleported to the boss door tile.
+- Once one player decides to open the boss door then all alive players (no matter where they were or what they were doing) are
+	teleported to the boss door tile.
 - When you fight the boss, grab its card from the monster card pile; folow the rules on that card.
+	- On their turn, a player rolls a die and adds that to their attack stat. The monster takes that much damage.
+	- At the end of each round, the monster rolls a die and adds that to it's attack stat. Every player in battle takes that much damage.
 - If a player dies during the boss fight, they stay dead and their turn is skipped.
 	- Lives no longer matter. If a player dies in a boss fight they lose all their remaining lives.
 
