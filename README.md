@@ -1,4 +1,4 @@
-# Modular Cat Dungeon
+# Mewdular Dungeon Masters
 ### By: Lisa To, Richard Flores, Sam Behrman, and Shay Golub
 A co-operative game where 4 players work together to explore a dungeon and defeat the boss (as cats).
 
